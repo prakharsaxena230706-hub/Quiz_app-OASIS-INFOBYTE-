@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="welcome_title">General Knowledge Quiz</string>
+    <string name="welcome_subtitle">Test your knowledge with 10 questions!</string>
+    <string name="btn_start">Start Quiz</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_finish">Finish</string>
+    <string name="btn_restart">Restart Quiz</string>
+    <string name="results_title">Quiz Complete!</string>
+</resources>

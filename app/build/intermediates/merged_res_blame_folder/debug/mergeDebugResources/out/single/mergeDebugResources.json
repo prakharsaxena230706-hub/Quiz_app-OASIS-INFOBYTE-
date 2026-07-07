@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\9.4.1\\com.example.quizapp-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\9.4.1\\com.example.quizapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-31:/layout_activity_welcome.xml.flat",
+        "source": "com.example.quizapp-main-33:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-31:/drawable_option_background_correct.xml.flat",
+        "source": "com.example.quizapp-main-33:/drawable/option_background_correct.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-31:/drawable_option_background_default.xml.flat",
+        "source": "com.example.quizapp-main-33:/drawable/option_background_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\9.4.1\\com.example.quizapp-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\9.4.1\\com.example.quizapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-31:/layout_activity_quiz.xml.flat",
+        "source": "com.example.quizapp-main-33:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-31:/layout_activity_result.xml.flat",
+        "source": "com.example.quizapp-main-33:/layout/activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\9.4.1\\com.example.quizapp-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\9.4.1\\com.example.quizapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\9.4.1\\com.example.quizapp-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\9.4.1\\com.example.quizapp-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.quizapp-debug-31:/drawable_option_background_wrong.xml.flat",
+        "source": "com.example.quizapp-main-33:/drawable/option_background_wrong.xml"
+    }
+]
